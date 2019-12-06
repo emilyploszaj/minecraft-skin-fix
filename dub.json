@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Emily"
+	],
+	"copyright": "Copyright © 2019, Emily",
+	"dependencies": {
+		"vibe-d": "~>0.8.5"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "minecraft-skin-fix"
+}

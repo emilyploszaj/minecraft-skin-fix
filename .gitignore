@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/minecraft-skin-fix
+minecraft-skin-fix.so
+minecraft-skin-fix.dylib
+minecraft-skin-fix.dll
+minecraft-skin-fix.a
+minecraft-skin-fix.lib
+minecraft-skin-fix-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.dll
